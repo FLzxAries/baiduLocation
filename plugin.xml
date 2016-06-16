@@ -77,7 +77,7 @@
       <config-file target="*BaiduSDKParams.plist" parent="params">
             <dict>
               <key>API_KEY</key>
-              <string>$API_KEY_IOS</string>
+              <string>lrPmZrC8475wrOp4CrpyY6fnbY0q6yED</string>
             </dict>
       </config-file>
       <!-- Set message displayed when app requests constant location updates -->
